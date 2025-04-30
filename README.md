@@ -29,4 +29,5 @@ Transformed data is stored in **Azure SQL Server** and visualized through **Powe
 
 ---
 
+![Gym Product Data Warehousing Architecture](images/GymProduct.jpg)
 
